@@ -18,3 +18,4 @@ test:
 production:
   <<: *default
   database: database_name
+
